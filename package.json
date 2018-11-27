@@ -1,0 +1,16 @@
+{
+  "name": "ubot",
+  "version": "0.0.1",
+  "description": "The bot framework by bot developers for bot developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest test"
+  },
+  "keywords": [
+    "bot",
+    "framework",
+    "serverless"
+  ],
+  "author": "Conor Turner",
+  "license": "MIT"
+}
